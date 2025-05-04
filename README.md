@@ -13,4 +13,4 @@ Predict the sentiment of custom review text
 
 View summary insights through interactive UI
 
-
+DATASET- https://www.kaggle.com/datasets/farukalam/yelp-restaurant-reviews?resource=download
